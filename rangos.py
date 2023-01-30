@@ -25,5 +25,6 @@ if mi_rango is otro_rango:
 else:
     print("No son lo mismo")
     
+#mostrar numeros pares de 0 a 100
 for i  in range(0, 101, 2):
     print(i)
